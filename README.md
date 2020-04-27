@@ -1,4 +1,4 @@
-# CPP_Lab01
+# cpp_Lab01
 
 C++课程的Lab01，利用EGE图形库创建画板。
 
